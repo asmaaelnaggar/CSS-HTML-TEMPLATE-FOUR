@@ -1,0 +1,57 @@
+.d-flex{
+    display: flex;
+}
+
+.p-relative{
+position: relative;
+}
+.p-10{
+    padding: 10px;
+}
+
+.p-20{
+    padding :20px;
+}
+
+.pt-20
+{
+    padding-top: 20px;
+}
+.m-20{
+    margin: 20px;
+
+}
+.mt-0{
+    margin-top: 0;
+}
+.bg-eee{
+    background-color: #eee;
+}
+.bg-white{
+    background-color: white;
+}
+
+.rad-6{
+    border-radius: 6px;
+}
+
+.txt-c{
+    text-align: center;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.c-black{
+    color: black;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.rad-6{
+    border-radius: 6px;
+}  
+
